@@ -1,0 +1,1 @@
+This is my first test practicing using a repo for a RPG Maker MV Plugin tutorial.
